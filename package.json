@@ -42,7 +42,7 @@
       "pre-push": "npm run test:coverage -- --watch-all=false"
     }
   },
-  "homepage": "https://korzhonrails/github.io/itera_travis_workshop",
+  "homepage": "https://korzhonrails.github.io/itera_travis_workshop/",
   "devDependencies": {
     "husky": "^2.4.1"
   }
